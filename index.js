@@ -1,3 +1,12 @@
+/**
+ * A function which takes an array of integers and an integer which defines the number of sub arrays 
+ * the first array will be split into  
+ * 
+ * @param originalArray an array of integers which will be divided into a number of sub arrays  
+ * @param numberOfSubArrays an integer used as the number of sub arrays the main array is split into
+ * 
+ * @Return A 2D array made up of the original array split into sub arrays  
+ */
 function splitArrayEvenly (originalArray, numberOfSubArrays) {
 
     let new2DArray = [];
