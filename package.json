@@ -1,0 +1,15 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "A programming assessment for Twig",
+  "main": "index.js",
+  "type": "module" ,
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chris Hodgson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
